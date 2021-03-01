@@ -1,0 +1,16 @@
+.container{
+    font-size: 10px;
+    position: relative;
+    top: 40px;
+}
+.alphabet{
+    background-color: rgb(238, 53, 28);
+    font-size: 2rem;
+    position: sticky;
+    top: 10px;
+    margin-bottom: 10px;
+}
+.mobile-number{
+    font-size: 1rem;
+    border: 2px solid rgb(88, 45, 207);
+}
